@@ -1,2 +1,2 @@
-# 01_Mathematics-for-Machine-Learning
-Linear Algebra, Multivariate Calculus &amp; PCA
+# Mathematics-for-Machine-Learning
+__Linear Algebra__, __Multivariate Calculus__,  __PCA__
